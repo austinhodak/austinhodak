@@ -1,5 +1,18 @@
 <h1 align="center">@austinhodak</h3>
 
+<p align="center">
+  Hello! My name is Austin and I am a Android Developer!</a>.
+  <br>
+  <br>
+  🔭 I'm currently working on: Android and Serverless Backends (Firebase)
+  <br>
+  🌱 I'm currently learning: Flutter, Python, Swift, React
+  <br>
+  <br>
+  I love to build, learn, support the opensource community, and have fun along the way. ❤️:octocat:
+  <br>
+</p>
+
 <h2 align="center">Open source projects ⭐</h3>
 <table align="center">
   <thead align="center">
