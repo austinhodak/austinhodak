@@ -33,35 +33,35 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/austinhodak/thehideout?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/austinhodak/thehideout"><b>Tarkov.dev</b></a></td>
+      <td><a href="https://github.com/the-hideout/tarkov-dev"><b>Tarkov.dev</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/the-hideout/tarkov-dev?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/the-hideout/tarkov-dev?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/the-hideout/tarkov-dev?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/the-hideout/tarkov-dev?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/austinhodak/thehideout"><b>Stash</b></a></td>
+      <td><a href="https://github.com/the-hideout/stash"><b>Stash</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/the-hideout/stash?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/the-hideout/stash?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/the-hideout/stash?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/the-hideout/stash?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/austinhodak/thehideout"><b>Tarkov.dev API</b></a></td>
+      <td><a href="https://github.com/the-hideout/tarkov-data-api"><b>Tarkov.dev API</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/the-hideout/tarkov-data-api?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/the-hideout/tarkov-data-api?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/the-hideout/tarkov-data-api?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/the-hideout/tarkov-data-api?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/austinhodak/thehideout"><b>Tarkov Crons</b></a></td>
+      <td><a href="https://github.com/the-hideout/tarkov-crons"><b>Tarkov Crons</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/the-hideout/tarkov-crons?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/the-hideout/tarkov-crons?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/the-hideout/tarkov-crons?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/the-hideout/tarkov-crons?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/austinhodak/thehideout"><b>BattleSTAT</b></a></td>
+      <td><a href="https://github.com/austinhodak/BattleSTAT"><b>BattleSTAT</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/austinhodak/BattleSTAT?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/austinhodak/BattleSTAT?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/austinhodak/BattleSTAT?style=flat-square&labelColor=343b41"/></td>
