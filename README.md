@@ -15,7 +15,7 @@
     <tr>
       <td><a href="https://github.com/austinhodak/thehideout"><b>The Hideout</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/austinhodak/thehideout?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/austinhodak/thehideouto?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/austinhodak/thehideout?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/austinhodak/thehideout?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/austinhodak/thehideout?style=flat-square&labelColor=343b41"/></td>
     </tr>
