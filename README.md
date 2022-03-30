@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<h2 align="center">Stats 📊</h3>
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=austinhodak&count_private=true&show_icons=true&theme=tokyonight&hide=issues,prs"/>
+  <br>
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=austinhodak&theme=tokyonight"/>
+</p>
+
 <!--
 **austinhodak/austinhodak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
