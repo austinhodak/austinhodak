@@ -1,8 +1,6 @@
-<h1 align="center">@austinhodak</h3>
+![github-header-image](https://user-images.githubusercontent.com/5241478/214694049-03f6dedc-7a34-4ea9-960b-642fb48ca018.png)
 
 <p align="center">
-  Hello! My name is Austin and I'm an Android Developer!</a>
-  <br>
   <br>
   🔭 I'm currently working on: Android and Serverless Backends (Firebase)
   <br>
