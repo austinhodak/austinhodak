@@ -1,7 +1,7 @@
 <h1 align="center">@austinhodak</h3>
 
 <p align="center">
-  Hello! My name is Austin and I am a Android Developer!</a>.
+  Hello! My name is Austin and I'm an Android Developer!</a>
   <br>
   <br>
   🔭 I'm currently working on: Android and Serverless Backends (Firebase)
